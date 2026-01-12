@@ -2,7 +2,7 @@
 
 This project detects plant diseases from leaf images using a fine-tuned **EfficientNetB3** model.
 
-## 🚀 Features
+##  Features
 - Supports Tomato, Potato, and Pepper leaves
 - 15 disease classes
 - Transfer Learning with EfficientNet
@@ -10,25 +10,27 @@ This project detects plant diseases from leaf images using a fine-tuned **Effici
 - Confidence-aware predictions
 - Google Colab compatible
 
-## 🧠 Model
+##  Model
 - Architecture: EfficientNetB3
 - Input Size: 224x224
 - Optimizer: Adam
 - Accuracy: ~95%
 
-## 📂 Dataset
+##  Dataset
 PlantVillage Dataset  
-⚠️ Dataset not included due to size constraints.
+ Dataset not included due to size constraints.
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository
 2. Open the notebook in Google Colab
 3. Mount Google Drive
 4. Place dataset in Drive
 5. Run all cells
 
-## 📌 Example Output
+## Example Output
 - Input image
+- <img width="699" height="680" alt="image" src="https://github.com/user-attachments/assets/520d423f-efbc-405f-8400-ad9b614648a3" />
+
 - Predicted disease
 - Confidence score
 
